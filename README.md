@@ -4,9 +4,18 @@ Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas rela
 
 ## 📘Fundamentos de Redes de Computadores:
 ### 📄 T1 - Comparação entre protocolos UDP e TCP
-- **Descrição**: 
-### 📄 T2 - Redes: rede local com uso de backbone de roteadores simulada (no GNS3) 
-### 📄 T3 - Redes: Man in the middle (interceptação de pacotes, em C)
+- **Ferramentas**: C, Wireshark, comandos 'tc'
+- **Descrição**: Implementação em C comparando os protocolos cliente/servidor UDP e TCP
+### 📄 T2 - Simulação de Rede Local
+- **Ferramentas**: GNS3
+- **Descrição**: Criação de uma topologia de rede simulada com roteadores interconectados por backbone.
+### 📄 TF - Man in the Middle (MITM)
+- **Ferramentas**: C, HTML, Wireshark, comandos 'arpspoof'
+- **Descrição**: Demonstração de interceptação de pacotes em uma rede local (ataque Man in the Middle).
+---
 
 ## 📕 Redes de Computadores Avançadadas:
-  ### 📄 T1 - Redes Avançadas: Técnicas de Qualidade de Serviço (QoS) em transmissões de tempo real (pacotes RTP).
+### 📄 T1 - Qualidade de Serviço (Qos) em transmissões RTP
+- **Ferramentas** : Python, comandos 'tc'
+- **Descrição**: Aplicação de técnicas de QoS em transmissões de áudio/vídeo via pacotes RTP.
+---
