@@ -3,7 +3,7 @@ Este repositório reúne trabalhos acadêmicos desenvolvidos em disciplinas rela
 ---
 
 ## 📘Fundamentos de Redes de Computadores:
-### 📄 [T1 - Comparação entre protocolos UDP e TCP](REDES/Fundamentos/T1/)
+### 📄 [T1 - Comparação entre protocolos UDP e TCP](/Fundamentos/T1/)
 - **Ferramentas**: C, Wireshark, comandos de *traffic control*
 - **Descrição**: Implementação em C comparando os protocolos cliente/servidor UDP e TCP
 ### 📄 T2 - Simulação de Rede Local
